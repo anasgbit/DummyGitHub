@@ -1,2 +1,3 @@
 # DummyGitHub
-Testing git hub
+======================
+Test git hub repository for checking access
